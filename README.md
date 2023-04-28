@@ -9,3 +9,5 @@
  
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dinhoanderson&theme=dark)](https://git.io/streak-stats)
+
