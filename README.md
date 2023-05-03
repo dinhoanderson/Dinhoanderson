@@ -11,3 +11,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dinhoanderson&theme=dark)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/Dinhoanderson/Dinhoanderson/blob/output/github-contribution-grid-snake.svg)
+
