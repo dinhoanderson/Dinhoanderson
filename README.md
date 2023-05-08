@@ -1,7 +1,8 @@
-### Olá, me chamo Anderson Holanda😎
+### Me chamo Anderson Holanda😎
 
 - 🔭 Hoje trabalho com Eletrônica
 - 🌱 Estudando Back End - Senai
+- 🌱 Trilha de treinamento cloud computing - Capgemini
 - 📫 Me contate no Email: andersonjose_holanda@hotmail.com
 
 <div> 
