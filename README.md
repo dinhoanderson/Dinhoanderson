@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com Eletrônica
 - 🌱 Estudando Back End - Senai
+- 🌱 Cursando Técnico em Desenvolvimento de Sistemas - ETEGEC
 - 🌱 Trilha de treinamento cloud computing - Capgemini
 - 📫 Me contate no Email: andersonjose_holanda@hotmail.com
 
