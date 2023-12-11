@@ -1,19 +1,28 @@
 ### Me chamo Anderson Holanda😎
 
 - 🔭 Hoje trabalho com Eletrônica
-- 🌱 Estudando Back End - Senai
+- 🌱 Devenvolvimento Back - End / Senai
 - 🌱 Cursando Técnico em Desenvolvimento de Sistemas - ETEGEC
-- 🌱 Trilha de treinamento cloud computing - Capgemini
+- 🌱 Superior em andamento: Análise e Desenvolvimento de Sistemas - Estacio
 - 📫 Me contate no Email: andersonjose_holanda@hotmail.com
 <div> 
   <a href="https://instagram.com/dinhoanderson79" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
 
 
-- ## IDEs <img width="25" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-[![](https://img.shields.io/badge/Visual_Studio_Code-25744a?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/TatianeCMessias)
+### 💻 IDEs/Editores
+![Visual Studio](https://img.shields.io/badge/visualstudio-000?style=for-the-badge&logo=visualstudio)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Sistema Operacional <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> 
 [![](https://img.shields.io/badge/Windows-423472?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dinhoanderson)
+
+### 📋Linguagens
+![C#](https://img.shields.io/badge/C%23-5C2D91?style=fat-square&logo=c-sharp&logoColor=white)
+
+### 🕓 Controle de Versões
+
+![git](https://img.shields.io/badge/Git-F05032?style=fat-square&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
   
 
