@@ -1,7 +1,7 @@
 ### Me chamo Anderson Holanda😎
 
 - 🔭 Hoje trabalho com Eletrônica
-- 🌱 Devenvolvimento Back - End / Senai
+- 🌱 Devenvolvedor Back - End
 - 🌱 Cursando Técnico em Desenvolvimento de Sistemas - ETEGEC
 - 🌱 Superior em andamento: Análise e Desenvolvimento de Sistemas - Estacio
 - 📫 Me contate no Email: andersonjose_holanda@hotmail.com
