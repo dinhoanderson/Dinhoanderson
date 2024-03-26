@@ -17,12 +17,35 @@
 ## Sistema Operacional <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> 
 [![](https://img.shields.io/badge/Windows-423472?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dinhoanderson)
 
-### 📋Linguagens
-![C#](https://img.shields.io/badge/C%23-5C2D91?style=fat-square&logo=c-sharp&logoColor=white)
 
-### 🕓 Controle de Versões
+# 💻 Minhas Tecnologias
 
-![git](https://img.shields.io/badge/Git-F05032?style=fat-square&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-  
+<table align="center">
+<td align="center" width="96">  
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
 
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+
+ <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+</table>
